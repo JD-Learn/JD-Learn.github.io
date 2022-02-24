@@ -11,7 +11,7 @@ h1
 
 header
   {
-  background-image: url('Unsplash_Glasses-trip.jpg');
+  background-image: url('unsplash_glasses-trip.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   padding-bottom: 280px;
@@ -131,6 +131,9 @@ footer p
   display: float;
   padding: 25px;
 }
+
+
+
 
 .one-column
 {
